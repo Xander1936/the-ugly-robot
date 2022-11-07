@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/the-ugly-robot/static/css/main.3a7be14a.css",
+    "main.js": "/the-ugly-robot/static/js/main.5a782281.js",
+    "index.html": "/the-ugly-robot/index.html",
+    "main.3a7be14a.css.map": "/the-ugly-robot/static/css/main.3a7be14a.css.map",
+    "main.5a782281.js.map": "/the-ugly-robot/static/js/main.5a782281.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7be14a.css",
+    "static/js/main.5a782281.js"
+  ]
+}
