@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/the-ugly-robot/static/css/main.3a7be14a.css",
-    "main.js": "/the-ugly-robot/static/js/main.5a782281.js",
+    "main.css": "/the-ugly-robot/static/css/main.86f6ee1b.css",
+    "main.js": "/the-ugly-robot/static/js/main.b7bafe81.js",
     "index.html": "/the-ugly-robot/index.html",
-    "main.3a7be14a.css.map": "/the-ugly-robot/static/css/main.3a7be14a.css.map",
-    "main.5a782281.js.map": "/the-ugly-robot/static/js/main.5a782281.js.map"
+    "main.86f6ee1b.css.map": "/the-ugly-robot/static/css/main.86f6ee1b.css.map",
+    "main.b7bafe81.js.map": "/the-ugly-robot/static/js/main.b7bafe81.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a7be14a.css",
-    "static/js/main.5a782281.js"
+    "static/css/main.86f6ee1b.css",
+    "static/js/main.b7bafe81.js"
   ]
 }
