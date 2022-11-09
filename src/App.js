@@ -18,7 +18,7 @@ function App() {
     //console.log(fullname);
     return fullname;
   }
-  //Empty arry means Break the infinite Loop of the useState Hook 
+  //Empty array means Break the infinite Loop of the useState Hook 
   //and runs the data from the API once the page loads. 
   useEffect(() => {
     getRandomName();
