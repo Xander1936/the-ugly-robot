@@ -4,6 +4,7 @@ import profiles from './components/fakeData';
 import './App.css';
 
 function App() {
+  //Set the State Variable for the fullname
   const [fullname, setFullname] = useState('waiting for data');
 
   //API: async is use to fetch something from the web 
