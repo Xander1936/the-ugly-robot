@@ -9,12 +9,13 @@ const ProfileCard = ({ image, name, title, description }) => {
         <div className="card" style={{
             backgroundColor: "white",
             margin: 15,
+            marginBottom: 60,
             padding: 5,
             borderRadius: 10,
             justifyContent: "center",
             alignItems: "center"
         }}>
-            <div style={{ display: 'flex', backgroundColor: "white"}}>
+            <div style={{display: 'flex', backgroundColor: "white"}}>
                 <img src={image} alt='card-img' height='75px' style={{borderRadius: '10px'}} />
                 <div style={{backgroundColor: "white"}}>
                     <h2 style={{backgroundColor: "white", marginLeft: '10px'}}> {name} </h2>
@@ -22,7 +23,7 @@ const ProfileCard = ({ image, name, title, description }) => {
                 </div>
             </div>
             <div style={{backgroundColor: "white", display: "flex", justifyContent: "center", alignItems: 'center'}}>
-                <p style={{ backgroundColor: "white", fontSize: "12px", padding: 5}}>
+                <p style={{ backgroundColor: "white", fontSize: "12px", padding: 10}}>
                     Description: {description}
                 </p>
             </div>
